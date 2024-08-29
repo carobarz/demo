@@ -5,3 +5,6 @@ MENU INICIO
 2- Colocar botones que nos direccionen a distintas partes de la aplicación
 3- Realizar formulario de inicio de sesión
 4- Crear carteles de alerta si no llega a colocar bien usuario y contraseña
+
+PASO 1
+- Buscar imágenes (pendiente)
